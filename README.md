@@ -10,7 +10,3 @@
 - Webエンジニア（バックエンド > フロントエンド）
 
 詳細は [README-long.md](https://github.com/matsurih/matsurih/blob/master/README-long.md)
-
-## ソーシャル
-- [Qiita](https://qiita.com/matsurih)
-- [Twitter](https://twitter.com/matsuri__h)
