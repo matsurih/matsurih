@@ -83,22 +83,6 @@ A subsidiary of PKSHA Technology, Inc.
 - キャンプ
 - カメラ
 
-## つくったもの（業務外）
-- padlistmaker - パズドラ所有キャラ一覧メーカー（閉鎖済み）
-- またアイス食べてる - 食べているアイスをツイートするAndroidアプリ（削除済み）
-- RAMStatusBar - ステータスバーに空きメモリを表示するAndroidアプリ（削除済み）
-- シャドウバース対戦掲示板 - Shadowverseの対戦相手を探すアプリ（削除済み）
-- 自宅のハムスターをraspberry pi3で常時監視するやつ（private）
-- [pubg-kotlin](https://github.com/matsurih/pubg-kotlin) - PUBG API wrapper for Kotlin
-  - listed on [official developer's website](https://documentation.playbattlegrounds.com/en/community-sdks.html)
-- [fork-sanic-openapi](https://github.com/matsurih/fork-sanic-openapi) - Easily document your Sanic API with a UI
-  - 本家sanic-openapiが死んでいるため
-- 東証上場銘柄検索API
-- [jdeppy](https://github.com/matsurih/jdeppy)
-  - python wrapper for [J.DepP](http://www.tkl.iis.u-tokyo.ac.jp/~ynaga/jdepp/), fast Japanese Dependency Parser
-- [pyjstage](https://github.com/matsurih/pyjstage)
-  - python wrapper for J-STAGE Web API.
-
 ## はなしたこと
 - [Androidアプリ開発のいろは](https://speakerdeck.com/matsurihime/androidapurikai-fa-falseiroha) @2017/5/19
 
@@ -117,6 +101,5 @@ A subsidiary of PKSHA Technology, Inc.
 - 情報処理安全確保支援士 @2018Spring / Registered @2018.10-2019.9
 
 ## ソーシャル
-- [GitHub](https://github.com/matsurih)
 - [Qiita](https://qiita.com/matsurih)
 - [Twitter](https://twitter.com/matsuri__h)
