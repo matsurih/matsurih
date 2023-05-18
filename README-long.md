@@ -10,7 +10,7 @@
 - Webエンジニア（バックエンド > フロントエンド）
 
 ## やってきたこと
-### 2021.12～ Solarium, Inc.
+### 2023.2～ Solarium, Inc.
 - Lead Engineer
   - スタートアップの1人目エンジニアとして開発業務全般をリード
     - [medibot](https://medibot.biz/)の開発 / React, Typescript, terraform
