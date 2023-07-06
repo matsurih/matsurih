@@ -13,17 +13,17 @@
 ### 2023.2～ Solarium, Inc.
 - Lead Engineer
   - スタートアップの1人目エンジニアとして開発業務全般をリード
-    - [medibot](https://medibot.biz/)の開発 / React, Typescript, terraform
+    - [medibot](https://medibot.biz/)の開発 / React, Typescript, Next.js, Terraform
 
 ### 2020.11～2022.12 Medcross, Inc.
 [A joint venture between PKSHA Technology, Inc. and MedPeer, Inc.](https://www.facebook.com/pkshatech/posts/3551082518287069)
 - Director
   - 製薬企業向けアルゴリズムソリューションの展開、プロダクト開発
     - KOL/AOL探索アルゴリズムの構築 / Python
-    - マーケティングターゲットの最適化アルゴリズム開発 / Python, Ruby (on Rails), terraform
-    - 医師の薬剤検索支援ツールの構築 / Python, React, terraform
+    - マーケティングターゲットの最適化アルゴリズム開発 / Python, Ruby (on Rails), Terraform
+    - 医師の薬剤検索支援ツールの構築 / Python, React, Terraform
   - プロダクト開発
-    - メール配信最適化プラットフォーム開発 / Python, Ruby (on Rails), terraform
+    - メール配信最適化プラットフォーム開発 / Python, Ruby (on Rails), Terraform
 
 ### 2019.8～2023.1 PKSHA Technology, Inc.
 - New business development
@@ -35,9 +35,9 @@
   - 特定の精神疾患に関するPatient Journey可視化 / Python
   - 料理画像解析アルゴリズムの構築支援 / Python
   - 精神科領域におけるカルテ情報の分析 / Python
-  - [棚割作成支援アプリのシステム・インフラ開発](https://prtimes.jp/main/html/rd/p/000000027.000022705.html) / Ruby (on Rails), Python, terraform
-  - VoC分析アルゴリズム・プラットフォームの開発 / Python, terraform
-  - 企業間契約書の情報抽出システム構築 / Python, Ruby (on Rails), terraform
+  - [棚割作成支援アプリのシステム・インフラ開発](https://prtimes.jp/main/html/rd/p/000000027.000022705.html) / Ruby (on Rails), Python, Terraform
+  - VoC分析アルゴリズム・プラットフォームの開発 / Python, Terraform
+  - 企業間契約書の情報抽出システム構築 / Python, Ruby (on Rails), Terraform
   - [GNNを用いた薬物動態予測アルゴリズム構築](https://prtimes.jp/main/html/rd/p/000000081.000022705.html) / Python
   - 論文・助成金情報の多クラス分類アルゴリズム構築 / Python
   - 中古販売店向け価格決定ダッシュボード構築 / Python
