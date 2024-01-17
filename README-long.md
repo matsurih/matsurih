@@ -26,10 +26,6 @@
     - メール配信最適化プラットフォーム開発 / Python, Ruby (on Rails), Terraform
 
 ### 2019.8～2023.1 PKSHA Technology, Inc.
-- New business development
-  - 会話データから軽度認知症患者の判定可能性検証
-  - ナーススケジューリング問題をテーマとしたシフト最適化R&D
-  - 出資先企業に対する技術支援
 - Algorithm Engineer, Product Lead
   - [医療相談における医師回答作成支援アルゴリズム開発](https://prtimes.jp/main/html/rd/p/000000236.000010134.html) / Python
   - 特定の精神疾患に関するPatient Journey可視化 / Python
@@ -43,6 +39,9 @@
   - 中古販売店向け価格決定ダッシュボード構築 / Python
   - 科学技術論文における用語抽出・クラスタリング / Python
   - [省庁業務高度化アルゴリズム構築](https://prtimes.jp/main/html/rd/p/000000045.000022705.html) / Python
+  - 会話データから軽度認知症患者の判定可能性検証 / Python
+  - ナーススケジューリング問題をテーマとしたシフト最適化R&D / Python
+  - 出資先企業に対する技術支援
 - Engineering Manager
   - チームマネジメントや新卒・中途採用、組織づくりなど
   
