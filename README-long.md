@@ -11,7 +11,7 @@
 
 ## やってきたこと
 ### 2023.2～ Solarium, Inc.
-- Lead Engineer
+- Head of Development
   - スタートアップの1人目エンジニアとして開発業務全般をリード
     - [medibot](https://medibot.biz/)の開発 / React, Typescript, Next.js, Terraform
 
