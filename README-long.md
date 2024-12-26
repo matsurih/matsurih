@@ -11,8 +11,8 @@
 
 ## やってきたこと
 ### 2023.2～ Solarium, Inc.
-- Head of Development
-  - スタートアップの1人目エンジニアとして開発業務全般をリード
+- CTO
+  - スタートアップの1人目エンジニア/CTOとして開発業務全般をリード
     - [medibot集患](https://medibot.biz/)の開発 / React, Typescript, Next.js, Python, Terraform
     - [medibot診療](https://medibot.biz/#dx)の開発 / React, Typescript, Next.js, Terraform
 
