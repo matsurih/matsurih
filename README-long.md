@@ -26,8 +26,8 @@
   - プロダクト開発
     - メール配信最適化プラットフォーム開発 / Python, Ruby (on Rails), Terraform
 
-### 2019.8～2023.1 PKSHA Technology, Inc.
-- Algorithm Engineer, Product Lead
+### 2018.2～2023.1 PKSHA Technology, Inc.
+- Algorithm Engineer(NLP), Product Lead
   - [医療相談における医師回答作成支援アルゴリズム開発](https://prtimes.jp/main/html/rd/p/000000236.000010134.html) / Python
   - 特定の精神疾患に関するPatient Journey可視化 / Python
   - 料理画像解析アルゴリズムの構築支援 / Python
@@ -43,12 +43,6 @@
   - 会話データから軽度認知症患者の判定可能性検証 / Python
   - ナーススケジューリング問題をテーマとしたシフト最適化R&D / Python
   - 出資先企業に対する技術支援
-- Engineering Manager
-  - チームマネジメントや新卒・中途採用、組織づくりなど
-  
-### 2018.2～2019.7 BEDORE, Inc.
-A subsidiary of PKSHA Technology, Inc.
-- NLP Engineer, Data Scientist
   - 非タスク型対話エージェント開発 / Python
   - ニュース・SNSを用いた店舗情報・口コミ情報抽出 / Python
   - [有価証券報告書を用いた投資判断ツール開発](https://www.pkshatech.com/news/2020-02-21_28/) / Python, Ruby (on Rails)
@@ -59,6 +53,8 @@ A subsidiary of PKSHA Technology, Inc.
   - Named Entity Recognition
   - Predicate-Argument Structure Analysis
   - Unsupervised Terminology Extraction
+- Engineering Manager
+  - チームマネジメントや新卒・中途採用、組織づくりなど
 
 ### 2015.12～2018.1 Agilecore Co., Ltd.
 - System Engineer
