@@ -13,7 +13,7 @@
 ### 2023.2～ Solarium, Inc.
 - CTO
   - スタートアップの1人目エンジニア/CTOとして開発業務全般をリード
-    - オンライン診療SaaS[Medibot](https://medibot.biz/)の開発 / React, Typescript, Next.js, Python, Go, Terraform
+    - オンライン診療SaaS [Medibot](https://medibot.biz/) の開発 / React, Typescript, Next.js, Python, Go, Terraform
 
 ### 2020.11～2022.12 Medcross, Inc.
 [A joint venture between PKSHA Technology, Inc. and MedPeer, Inc.](https://www.facebook.com/pkshatech/posts/3551082518287069)
