@@ -70,15 +70,16 @@
 - Bachelor of Science in Biology
 ### 2011.4～2015.11 Jichi Medical University
 - Student(Dropped out), School of Medicine
-
 ### 2007.4～2010.3 Nagano Prefectural Nagano Senior High School
 - Student
 
-## 資格試験
+## 資格試験・コンペなど
 - 基本情報技術者 @2016Spring
 - 応用情報技術者 @2017Spring
 - システムアーキテクト @2017Autumn
 - 情報処理安全確保支援士 @2018Spring / Registered @2018.10-2019.9
+- Kaggle
+  - The Pokémon Company - PTCG AI Battle Challenge Simulation #43/6807 (Silver)
 
 ## ソーシャル
 - [GitHub](https://github.com/matsurih)
