@@ -79,7 +79,8 @@
 - システムアーキテクト @2017Autumn
 - 情報処理安全確保支援士 @2018Spring / Registered @2018.10-2019.9
 - Kaggle
-  - The Pokémon Company - PTCG AI Battle Challenge Simulation #43/6807 (Silver)
+  - RSNA Knee Abnormality Detection #22/6425 (Solo Gold)
+  - The Pokémon Company - PTCG AI Battle Challenge Simulation #43/6807 (Solo Silver)
 
 ## ソーシャル
 - [GitHub](https://github.com/matsurih)
